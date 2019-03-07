@@ -1,0 +1,6 @@
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\bin\Debug\SelectionExample.exe.config
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\bin\Debug\SelectionExample.exe
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\bin\Debug\SelectionExample.pdb
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\obj\Debug\SelectionExample.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\obj\Debug\SelectionExample.exe
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\SelectionExample\SelectionExample\obj\Debug\SelectionExample.pdb
