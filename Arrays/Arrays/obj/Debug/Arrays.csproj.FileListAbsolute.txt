@@ -1,0 +1,6 @@
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\anguyen\Documents\GitHub\civ_intro_prog_2019\Arrays\Arrays\obj\Debug\Arrays.pdb
