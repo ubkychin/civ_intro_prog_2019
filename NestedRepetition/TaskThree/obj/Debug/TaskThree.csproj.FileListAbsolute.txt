@@ -1,0 +1,6 @@
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\bin\Debug\TaskThree.exe.config
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\bin\Debug\TaskThree.exe
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\bin\Debug\TaskThree.pdb
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\obj\Debug\TaskThree.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\obj\Debug\TaskThree.exe
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskThree\obj\Debug\TaskThree.pdb

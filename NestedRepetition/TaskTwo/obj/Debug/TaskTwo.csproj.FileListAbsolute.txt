@@ -1,0 +1,6 @@
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\bin\Debug\TaskTwo.exe.config
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\bin\Debug\TaskTwo.exe
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\bin\Debug\TaskTwo.pdb
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\obj\Debug\TaskTwo.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\obj\Debug\TaskTwo.exe
+C:\Users\anguyen\Documents\SharpDevelop Projects\NestedRepetition\TaskTwo\obj\Debug\TaskTwo.pdb

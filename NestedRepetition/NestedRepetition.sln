@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedRepetition", "NestedRepetition\NestedRepetition.csproj", "{2275538F-3FCE-4996-842E-832D3746A78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTwo", "TaskTwo\TaskTwo.csproj", "{BBCF9044-C86F-4542-AF9F-3BA3445B8A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskThree", "TaskThree\TaskThree.csproj", "{3B2E5953-5790-4CF9-9847-89CDA26D9799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2275538F-3FCE-4996-842E-832D3746A78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2275538F-3FCE-4996-842E-832D3746A78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2275538F-3FCE-4996-842E-832D3746A78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2275538F-3FCE-4996-842E-832D3746A78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCF9044-C86F-4542-AF9F-3BA3445B8A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF9044-C86F-4542-AF9F-3BA3445B8A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF9044-C86F-4542-AF9F-3BA3445B8A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF9044-C86F-4542-AF9F-3BA3445B8A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2E5953-5790-4CF9-9847-89CDA26D9799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2E5953-5790-4CF9-9847-89CDA26D9799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2E5953-5790-4CF9-9847-89CDA26D9799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2E5953-5790-4CF9-9847-89CDA26D9799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
